@@ -4,3 +4,4 @@ This script was originally made by me as a fast and simple way of encrypting pas
 
 ## Direct download link:
 https://github.com/nicolasPalomares/Password-encrypter-script/releases/download/v1.0/password_encryption_script.7z
+(Go to 'Releases' for more information)
